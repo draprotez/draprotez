@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Everyone 👋
 
 <!--
 **draprotez/draprotez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My Name is Mikael Immanuel Christianto, Im twenty one year old and junior Full-stack Developer from South Jakarta ID.
+
+I'm also still studying at Pamulang University, and i like to learn new things not only about general knowledge or languages but also about programming languages.
