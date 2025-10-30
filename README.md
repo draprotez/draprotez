@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My Name is Mikael Immanuel Christianto, and im junior Full-Stack Developer from South Jakarta ID.
+My Name is Mikael Immanuel Christianto, im junior Full-Stack and Mobile Developer from South Jakarta ID.
 
-I'm also still studying at Pamulang University, and i like to learn new things not only about general knowledge or languages but also about programming languages.
+I'm still studying and attending at Pamulang University. And i like to learn new things not only about general knowledge or languages but also about programming languages and the latest technology.
